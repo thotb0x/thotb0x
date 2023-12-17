@@ -1,4 +1,4 @@
-- Hi, I'm thotbox, I enjoy sports
+- Hi, I'm thotbox, I enjoy sports.
 
 <!---
 thotb0x/thotb0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
